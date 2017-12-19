@@ -8,13 +8,13 @@
     </div>
     <div class="collapse navbar-collapse" id="custom-collapse">
       <ul class="nav navbar-nav navbar-right">
-        <li class="dropdown"><a href='index.html'>Home</a>
-        <li class="dropdown"><a href='about.html'>About Us</a>
-        <li class="dropdown"><a href='resources.html'>Resources</a>
-        <li class="dropdown"><a href='volunteer.html'>Volunteer</a>
-        <li class="dropdown"><a href='partners.html'>Partners</a>
-        <li class="dropdown"><a href='team.html'>Team</a>
-        <li class="dropdown"><a href='contact.html'>Contact</a>
+        <li class="dropdown"><a href='index.php'>Home</a>
+        <li class="dropdown"><a href='about.php'>About Us</a>
+        <li class="dropdown"><a href='resources.php'>Resources</a>
+        <li class="dropdown"><a href='volunteer.php'>Volunteer</a>
+        <li class="dropdown"><a href='partners.php'>Partners</a>
+        <li class="dropdown"><a href='team.php'>Team</a>
+        <li class="dropdown"><a href='contact.php'>Contact</a>
       </ul>
     </div>
   </div>

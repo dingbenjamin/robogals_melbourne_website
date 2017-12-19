@@ -68,10 +68,10 @@
             </div>
             <div class="row">
               <div class="col-sm-4 col-sm-offset-2 text-center bottom10">
-                <button class="btn btn-border-w btn-circle" onclick="location.href='volunteer.html'">Volunteer </button>
+                <button class="btn btn-border-w btn-circle" onclick="location.href='volunteer.php'">Volunteer </button>
               </div>
               <div class="col-sm-4 text-center bottom10">
-                <button class="btn btn-border-w btn-circle" onclick="location.href='contact.html'">Contact Us </button>
+                <button class="btn btn-border-w btn-circle" onclick="location.href='contact.php'">Contact Us </button>
               </div>            
             </div>
         </section>
