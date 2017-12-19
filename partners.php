@@ -103,7 +103,7 @@
           </div>
         </section>
         <hr class="divider-w">
-        <section class="module">
+        <section class="module bg-light">
           <div class="container">
             <div class="row">
               <div class="col-sm-6 col-sm-offset-3">

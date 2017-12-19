@@ -6,7 +6,7 @@
     <main>
       <cms:embed 'nav.inc' />
       <div class="main">
-        <section class="module" id="contact">
+        <section class="module bg-light" id="contact">
           <div class="container">
             <div class="row">
               <div class="col-sm-6 col-sm-offset-3">
