@@ -13,6 +13,11 @@
     margin-top:-32px; /* Move the image back up half its height */
 }
 
+.module,
+.smallpadding {
+	padding: 70px; 
+}
+
 .top5 { margin-top:5px; }
 .top7 { margin-top:7px; }
 .top10 { margin-top:10px; }
@@ -26,3 +31,11 @@
 .bottom15 { margin-bottom:15px; }
 .bottom17 { margin-bottom:17px; }
 .bottom30 { margin-top:30px; }
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 60px;
+}

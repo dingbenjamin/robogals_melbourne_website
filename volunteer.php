@@ -5,103 +5,43 @@
   <body data-spy="scroll" data-target=".onpage-navigation" data-offset="60">
     <main>
       <cms:embed 'nav.inc' />
-      <div class="main">
+      <div class="main" id="content">
         <section class="module bg-dark-30 about-page-header" data-background="assets/images/about_bg.jpg">
           <div class="container">
             <div class="row">
               <div class="col-sm-6 col-sm-offset-3">
-                <h1 class="module-title font-alt mb-0">Forms</h1>
+                <h1 class="module-title font-alt mb-0">Volunteer</h1>
               </div>
             </div>
           </div>
         </section>
-        <section class="module">
+        <section class="module smallpadding">
           <div class="container">
             <div class="row">
               <div class="col-sm-8 col-sm-offset-2">
-                <h4 class="font-alt mb-0">Basic Forms</h4>
+                <h2 class="font-alt mb-0">Join us!</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dictum, enim tincidunt pretium faucibus, nulla ex consequat nunc, id consequat odio velit a libero. Aliquam dapibus quam risus, in pharetra augue sagittis quis.</p>
+              </div>
+            <div class="row">
+              <div class="col-sm-8 col-sm-offset-2">
                 <hr class="divider-w mt-10 mb-20">
                 <form class="form" role="form">
                   <div class="form-group">
-                    <input class="form-control input-lg" type="text" placeholder="Large input"/>
+                    <input class="form-control" type="text" placeholder="Name"/>
                   </div>
                   <div class="form-group">
-                    <input class="form-control" type="text" placeholder="Default input"/>
+                    <input class="form-control" type="text" placeholder="Phone"/>
                   </div>
                   <div class="form-group">
-                    <input class="form-control input-sm" type="text" placeholder="Small input"/>
+                    <input class="form-control" type="text" placeholder="Email"/>
                   </div>
-                  <div class="form-group">
-                    <input class="form-control" type="text" placeholder="Disabled input" disabled=""/>
-                  </div>
-                  <div class="form-group">
-                    <input class="form-control" type="text" placeholder="Readonly input" readonly=""/>
-                  </div>
-                  <textarea class="form-control" rows="7" placeholder="Textarea"></textarea>
+                  <textarea class="form-control" rows="7" placeholder="Message"></textarea>
+                  <button class="btn btn-g btn-circle top15" type="submit">Submit</button>
                 </form>
               </div>
             </div>
           </div>
         </section>
-        <div class="module-small bg-dark">
-          <div class="container">
-            <div class="row">
-              <div class="col-sm-3">
-                <div class="widget">
-                  <h5 class="widget-title font-alt">About Titan</h5>
-                  <p>The languages only differ in their grammar, their pronunciation and their most common words.</p>
-                  <p>Phone: +1 234 567 89 10</p>Fax: +1 234 567 89 10
-                  <p>Email:<a href="#">somecompany@example.com</a></p>
-                </div>
-              </div>
-              <div class="col-sm-3">
-                <div class="widget">
-                  <h5 class="widget-title font-alt">Recent Comments</h5>
-                  <ul class="icon-list">
-                    <li>Maria on <a href="#">Designer Desk Essentials</a></li>
-                    <li>John on <a href="#">Realistic Business Card Mockup</a></li>
-                    <li>Andy on <a href="#">Eco bag Mockup</a></li>
-                    <li>Jack on <a href="#">Bottle Mockup</a></li>
-                    <li>Mark on <a href="#">Our trip to the Alps</a></li>
-                  </ul>
-                </div>
-              </div>
-              <div class="col-sm-3">
-                <div class="widget">
-                  <h5 class="widget-title font-alt">Blog Categories</h5>
-                  <ul class="icon-list">
-                    <li><a href="#">Photography - 7</a></li>
-                    <li><a href="#">Web Design - 3</a></li>
-                    <li><a href="#">Illustration - 12</a></li>
-                    <li><a href="#">Marketing - 1</a></li>
-                    <li><a href="#">Wordpress - 16</a></li>
-                  </ul>
-                </div>
-              </div>
-              <div class="col-sm-3">
-                <div class="widget">
-                  <h5 class="widget-title font-alt">Popular Posts</h5>
-                  <ul class="widget-posts">
-                    <li class="clearfix">
-                      <div class="widget-posts-image"><a href="#"><img src="assets/images/rp-1.jpg" alt="Post Thumbnail"/></a></div>
-                      <div class="widget-posts-body">
-                        <div class="widget-posts-title"><a href="#">Designer Desk Essentials</a></div>
-                        <div class="widget-posts-meta">23 january</div>
-                      </div>
-                    </li>
-                    <li class="clearfix">
-                      <div class="widget-posts-image"><a href="#"><img src="assets/images/rp-2.jpg" alt="Post Thumbnail"/></a></div>
-                      <div class="widget-posts-body">
-                        <div class="widget-posts-title"><a href="#">Realistic Business Card Mockup</a></div>
-                        <div class="widget-posts-meta">15 February</div>
-                      </div>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
         <cms:embed 'footer.inc' />
       </div>
       <div class="scroll-up"><a href="#totop"><i class="fa fa-angle-double-up"></i></a></div>
