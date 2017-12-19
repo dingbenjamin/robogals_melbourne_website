@@ -1,10 +1,10 @@
 <div class="page-loader">
   <div class="loader">Loading...</div>
 </div>
-<nav class="navbar navbar-custom navbar-fixed-top navbar-transparent" role="navigation">
+<nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header v-center-navbar-img">
-      <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#custom-collapse"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand" href="index.html"><img src="assets/images/robogals-melbourne-dark.png" width="30%" height="30%"></a>
+      <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand" href="index.html"><img src="assets/images/robogals-melbourne-dark.png" width="30%" height="30%"></a>
     </div>
     <div class="collapse navbar-collapse" id="custom-collapse">
       <ul class="nav navbar-nav navbar-right">
