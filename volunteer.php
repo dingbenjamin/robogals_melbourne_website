@@ -1,3 +1,4 @@
+<?php require_once( 'couch/cms.php' ); ?>
 <!DOCTYPE html>
 <html lang="en-US" dir="ltr">
   <head>
@@ -488,3 +489,4 @@
     <script src="assets/js/main.js"></script>
   </body>
 </html>
+<?php COUCH::invoke(); ?>

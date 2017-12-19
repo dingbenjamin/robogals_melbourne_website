@@ -1,3 +1,4 @@
+<?php require_once( 'couch/cms.php' ); ?>
 <!DOCTYPE html>
 <html lang="en-US" dir="ltr">
   <head>
@@ -142,10 +143,10 @@
             </div>
             <div class="row">
               <div class="col-sm-4 col-sm-offset-2 text-center bottom10">
-                <button class="btn btn-border-w btn-circle" type="submit">Volunteer </button>
+                <button class="btn btn-border-w btn-circle" onclick="location.href='volunteer.html'">Volunteer </button>
               </div>
               <div class="col-sm-4 text-center bottom10">
-                <button class="btn btn-border-w btn-circle" type="submit">Contact Us</button>
+                <button class="btn btn-border-w btn-circle" onclick="location.href='contact.html'">Contact Us </button>
               </div>            
             </div>
         </section>
@@ -244,3 +245,4 @@
     <script src="assets/js/main.js"></script>
   </body>
 </html>
+<?php COUCH::invoke(); ?>
