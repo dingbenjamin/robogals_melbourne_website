@@ -50,9 +50,8 @@
               <div class="row">
                 <div class="col-sm-12">
                   <h2 class="module-title font-alt align-left">Robogals Melbourne</h2>
-                  <div class="module-subtitle font-serif align-left">A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</div>
-                  <p>The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar, their pronunciation and their most common words.</p>
-                  <p>The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary.</p>
+                  <div class="module-subtitle font-serif align-left">Our goal is to inspire, engage and empower young women into engineering and related fields. </div>
+                  <p>We are the Melbourne based chapter of Robogals, an international, not-for-profit, student run organisation that aims to increase female participation in Science, Technology, Engineering and Mathematics through fun and educational initiatives aimed at girls in primary and secondary school. </p>
                 </div>
               </div>
             </div>
@@ -63,7 +62,7 @@
             <div class="row">
               <div class="col-sm-6 col-sm-offset-3">
                 <h2 class="module-title font-alt">Learn More</h2>
-                <div class="module-subtitle font-serif">A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</div>
+                <div class="module-subtitle font-serif">Find out how you can get involved, as either a student or as parents/teachers.</div>
               </div>
             </div>
             <div class="row">
@@ -84,37 +83,37 @@
                 <div class="panel-group" id="accordion">
                   <div class="panel panel-default">
                     <div class="panel-heading">
-                      <h4 class="panel-title font-alt"><a data-toggle="collapse" data-parent="#accordion" href="#support1">Support Question 1</a></h4>
+                      <h4 class="panel-title font-alt"><a data-toggle="collapse" data-parent="#accordion" href="#support1">Do I have to be a girl to volunteer for Robogals?</a></h4>
                     </div>
                     <div class="panel-collapse collapse in" id="support1">
-                      <div class="panel-body">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.
+                      <div class="panel-body">Absolutely all students, of all backgrounds, ages, courses, and gender, are welcome. While our aim is to increase female participation in STEM, we're open - and encourage! - anyone to volunteer for this cause.
                       </div>
                     </div>
                   </div>
                   <div class="panel panel-default">
                     <div class="panel-heading">
-                      <h4 class="panel-title font-alt"><a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#support2">Support Question 2</a></h4>
+                      <h4 class="panel-title font-alt"><a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#support2">Do I have to be a girl to attend Robogals workshops?</a></h4>
                     </div>
                     <div class="panel-collapse collapse" id="support2">
-                      <div class="panel-body">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.
+                      <div class="panel-body">No, there are no restrictions on who can attend and learn from our workshops. Of course, we try to have as high of a ratio of females as possible, but we do not exclude anyone from our curriculum.
                       </div>
                     </div>
                   </div>
                   <div class="panel panel-default">
                     <div class="panel-heading">
-                      <h4 class="panel-title font-alt"><a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#support3">Support Question 3</a></h4>
+                      <h4 class="panel-title font-alt"><a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#support3">Does it cost anything to join Robogals?</a></h4>
                     </div>
                     <div class="panel-collapse collapse" id="support3">
-                      <div class="panel-body">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.
+                      <div class="panel-body">There is absolutely no cost involved to join. All training and equipment is provided, and there is no prior knowledge of robotics or engineering required.
                       </div>
                     </div>
                   </div>
                   <div class="panel panel-default">
                     <div class="panel-heading">
-                      <h4 class="panel-title font-alt"><a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#support4">Support Question 4</a></h4>
+                      <h4 class="panel-title font-alt"><a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#support4">Is there any way I can donate to your cause?</a></h4>
                     </div>
                     <div class="panel-collapse collapse" id="support4">
-                      <div class="panel-body">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.
+                      <div class="panel-body">Certainly! Although we provide our services free of charge, donations are enormously appreciated to keep our equipment up to date and our workshops as accessible as possible. Please contact our partnerships manager (MELBOURNE.PARTNERSHIPS@ROBOGALS.ORG) if you would like to make a donation or sponsor us.
                       </div>
                     </div>
                   </div>
