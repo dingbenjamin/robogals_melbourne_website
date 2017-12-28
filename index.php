@@ -18,26 +18,26 @@
             <div class="row multi-columns-row">
               <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="features-item">
-                  <div class="features-icon"><span class="icon-lightbulb"></span></div>
-                  <h3 class="features-title font-alt">Integrity</h3>Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
+                  <div class="features-icon"><span class="icon-shield"></span></div>
+                  <h3 class="features-title font-alt">Integrity</h3>We are committed to our role in society and stand up for what we commit to achieve. 
                 </div>
               </div>
               <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="features-item">
-                  <div class="features-icon"><span class="icon-tools"></span></div>
-                  <h3 class="features-title font-alt">Community</h3>Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
+                  <div class="features-icon"><span class="icon-chat"></span></div>
+                  <h3 class="features-title font-alt">Community</h3>Robogals is a family. Whether you are an executive, volunteer, partner or supporter, we work together to make our vision a reality. 
                 </div>
               </div>
               <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="features-item">
                   <div class="features-icon"><span class="icon-tools-2"></span></div>
-                  <h3 class="features-title font-alt">Innovation</h3>Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
+                  <h3 class="features-title font-alt">Innovation</h3>All members of our organisation have the chance to innovate and bring new ideas to the table. We encourage individualism and interests to shine.
                 </div>
               </div>
               <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="features-item">
-                  <div class="features-icon"><span class="icon-lifesaver"></span></div>
-                  <h3 class="features-title font-alt">Passion</h3>Careful attention to detail and clean, well structured code ensures a smooth user experience for all your visitors.
+                  <div class="features-icon"><span class="icon-heart"></span></div>
+                  <h3 class="features-title font-alt">Passion</h3>We are dedicated to diversity and inclusion in engineering and related fields. We are determined to make a difference. 
                 </div>
               </div>
             </div>
