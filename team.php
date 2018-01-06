@@ -19,14 +19,14 @@
                 <div class="team-item">
                   <div class="team-image"><img src="assets/images/team-1.jpg" alt="Member Photo"/>
                     <div class="team-detail">
-                      <h5 class="font-alt">Hi all</h5>
-                      <p class="font-serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit lacus, a&amp;nbsp;iaculis diam.</p>
+                      <h5 class="font-alt">melbourne.president@robogals.org</h5>
+                      <p class="font-serif">Sentence about you (Mel) here!</p>
                       <div class="team-social"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-dribbble"></i></a><a href="#"><i class="fa fa-skype"></i></a></div>
                     </div>
                   </div>
                   <div class="team-descr font-alt">
-                    <div class="team-name">Jim Stone</div>
-                    <div class="team-role">Art Director</div>
+                    <div class="team-name">Melissa Um</div>
+                    <div class="team-role">President</div>
                   </div>
                 </div>
               </div>
@@ -34,14 +34,14 @@
                 <div class="team-item">
                   <div class="team-image"><img src="assets/images/team-2.jpg" alt="Member Photo"/>
                     <div class="team-detail">
-                      <h5 class="font-alt">Good day</h5>
+                      <h5 class="font-alt">melbourne.schools@robogals.org</h5>
                       <p class="font-serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit lacus, a&amp;nbsp;iaculis diam.</p>
                       <div class="team-social"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-dribbble"></i></a><a href="#"><i class="fa fa-skype"></i></a></div>
                     </div>
                   </div>
                   <div class="team-descr font-alt">
-                    <div class="team-name">Andy River</div>
-                    <div class="team-role">Creative director</div>
+                    <div class="team-name">Martin Petrovski</div>
+                    <div class="team-role">Schools Manager</div>
                   </div>
                 </div>
               </div>
@@ -49,14 +49,14 @@
                 <div class="team-item">
                   <div class="team-image"><img src="assets/images/team-3.jpg" alt="Member Photo"/>
                     <div class="team-detail">
-                      <h5 class="font-alt">Hello</h5>
+                      <h5 class="font-alt">melbourne.schools@robogals.org</h5>
                       <p class="font-serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit lacus, a&amp;nbsp;iaculis diam.</p>
                       <div class="team-social"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-dribbble"></i></a><a href="#"><i class="fa fa-skype"></i></a></div>
                     </div>
                   </div>
                   <div class="team-descr font-alt">
-                    <div class="team-name">Adele Snow</div>
-                    <div class="team-role">Account manager</div>
+                    <div class="team-name">Carine Lim</div>
+                    <div class="team-role">Schools Manager</div>
                   </div>
                 </div>
               </div>
@@ -64,14 +64,14 @@
                 <div class="team-item">
                   <div class="team-image"><img src="assets/images/team-4.jpg" alt="Member Photo"/>
                     <div class="team-detail">
-                      <h5 class="font-alt">Yes, it's me</h5>
+                      <h5 class="font-alt">melbourne.training@robogals.org</h5>
                       <p class="font-serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit lacus, a&amp;nbsp;iaculis diam.</p>
                       <div class="team-social"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-dribbble"></i></a><a href="#"><i class="fa fa-skype"></i></a></div>
                     </div>
                   </div>
                   <div class="team-descr font-alt">
-                    <div class="team-name">Dylan Woods</div>
-                    <div class="team-role">Developer</div>
+                    <div class="team-name">Xiaoyi Liu</div>
+                    <div class="team-role">Training Manager</div>
                   </div>
                 </div>
               </div>
@@ -81,14 +81,14 @@
                 <div class="team-item">
                   <div class="team-image"><img src="assets/images/team-1.jpg" alt="Member Photo"/>
                     <div class="team-detail">
-                      <h5 class="font-alt">Hi all</h5>
+                      <h5 class="font-alt">melbourne.training@robogals.org</h5>
                       <p class="font-serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit lacus, a&amp;nbsp;iaculis diam.</p>
                       <div class="team-social"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-dribbble"></i></a><a href="#"><i class="fa fa-skype"></i></a></div>
                     </div>
                   </div>
                   <div class="team-descr font-alt">
-                    <div class="team-name">Jim Stone</div>
-                    <div class="team-role">Art Director</div>
+                    <div class="team-name">Taylah Cassidy</div>
+                    <div class="team-role">Training Manager</div>
                   </div>
                 </div>
               </div>
@@ -96,14 +96,14 @@
                 <div class="team-item">
                   <div class="team-image"><img src="assets/images/team-2.jpg" alt="Member Photo"/>
                     <div class="team-detail">
-                      <h5 class="font-alt">Good day</h5>
+                      <h5 class="font-alt">melbourne.marketing@robogals.org</h5>
                       <p class="font-serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit lacus, a&amp;nbsp;iaculis diam.</p>
                       <div class="team-social"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-dribbble"></i></a><a href="#"><i class="fa fa-skype"></i></a></div>
                     </div>
                   </div>
                   <div class="team-descr font-alt">
-                    <div class="team-name">Andy River</div>
-                    <div class="team-role">Creative director</div>
+                    <div class="team-name">Nathan Obersnel</div>
+                    <div class="team-role">Marketing Manager</div>
                   </div>
                 </div>
               </div>
@@ -111,14 +111,14 @@
                 <div class="team-item">
                   <div class="team-image"><img src="assets/images/team-3.jpg" alt="Member Photo"/>
                     <div class="team-detail">
-                      <h5 class="font-alt">Hello</h5>
+                      <h5 class="font-alt">melbourne.parternships@robogals.org</h5>
                       <p class="font-serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit lacus, a&amp;nbsp;iaculis diam.</p>
                       <div class="team-social"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-dribbble"></i></a><a href="#"><i class="fa fa-skype"></i></a></div>
                     </div>
                   </div>
                   <div class="team-descr font-alt">
-                    <div class="team-name">Adele Snow</div>
-                    <div class="team-role">Account manager</div>
+                    <div class="team-name">Kenny Jin</div>
+                    <div class="team-role">Parnerships Manager</div>
                   </div>
                 </div>
               </div>
@@ -126,14 +126,14 @@
                 <div class="team-item">
                   <div class="team-image"><img src="assets/images/team-4.jpg" alt="Member Photo"/>
                     <div class="team-detail">
-                      <h5 class="font-alt">Yes, it's me</h5>
+                      <h5 class="font-alt">melbourne.secretary@robogals.org</h5>
                       <p class="font-serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit lacus, a&amp;nbsp;iaculis diam.</p>
                       <div class="team-social"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-dribbble"></i></a><a href="#"><i class="fa fa-skype"></i></a></div>
                     </div>
                   </div>
                   <div class="team-descr font-alt">
-                    <div class="team-name">Dylan Woods</div>
-                    <div class="team-role">Developer</div>
+                    <div class="team-name">Alice Clark</div>
+                    <div class="team-role">Secretary</div>
                   </div>
                 </div>
               </div>
