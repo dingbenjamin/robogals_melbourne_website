@@ -1,0 +1,10 @@
+hello
+
+PAGE: about us
+
+The big ass space after the part in italics (Who are we etc) needs to be less big ass
+
+PAGE: team
+
+ROLE NAME (e.g. president/schools manager) font colour needs to be changed (to white? #FFF) (div class = team-name)
+EMAIL font size needs to be changed (try 8 px... just needs to be smaller) (div class = team-role)
