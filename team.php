@@ -50,7 +50,7 @@
                   <div class="team-image"><img src="assets/images/team-3.jpg" alt="Member Photo"/>
                     <div class="team-detail">
                       <h5 class="font-alt">CARINE LIM</h5>
-                      <p class="font-serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit lacus, a&amp;nbsp;iaculis diam.</p>
+                      <p class="font-serif">Carine's description here</p>
                       <div class="team-social"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-dribbble"></i></a><a href="#"><i class="fa fa-skype"></i></a></div>
                     </div>
                   </div>
@@ -65,7 +65,7 @@
                   <div class="team-image"><img src="assets/images/team-4.jpg" alt="Member Photo"/>
                     <div class="team-detail">
                       <h5 class="font-alt">XIAOYI LIU</h5>
-                      <p class="font-serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit lacus, a&amp;nbsp;iaculis diam.</p>
+                      <p class="font-serif">Pls insert stuff here xiaoyi.</p>
                       <div class="team-social"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-dribbble"></i></a><a href="#"><i class="fa fa-skype"></i></a></div>
                     </div>
                   </div>
@@ -82,7 +82,7 @@
                   <div class="team-image"><img src="assets/images/team-1.jpg" alt="Member Photo"/>
                     <div class="team-detail">
                       <h5 class="font-alt">TAYLAH CASSIDY</h5>
-                      <p class="font-serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit lacus, a&amp;nbsp;iaculis diam.</p>
+                      <p class="font-serif">!!!!!!!!!!!!!STUFF HERE FOR TAYLAH!!!!!!!!!!</p>
                       <div class="team-social"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-dribbble"></i></a><a href="#"><i class="fa fa-skype"></i></a></div>
                     </div>
                   </div>
@@ -97,7 +97,7 @@
                   <div class="team-image"><img src="assets/images/team-2.jpg" alt="Member Photo"/>
                     <div class="team-detail">
                       <h5 class="font-alt">NATHAN OBERSNEL</h5>
-                      <p class="font-serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit lacus, a&amp;nbsp;iaculis diam.</p>
+                      <p class="font-serif">Nathans stuff here</p>
                       <div class="team-social"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-dribbble"></i></a><a href="#"><i class="fa fa-skype"></i></a></div>
                     </div>
                   </div>
@@ -112,7 +112,7 @@
                   <div class="team-image"><img src="assets/images/team-3.jpg" alt="Member Photo"/>
                     <div class="team-detail">
                       <h5 class="font-alt">KENNY JIN</h5>
-                      <p class="font-serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit lacus, a&amp;nbsp;iaculis diam.</p>
+                      <p class="font-serif">Contact kenny to give us M O N E Y </p>
                       <div class="team-social"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-dribbble"></i></a><a href="#"><i class="fa fa-skype"></i></a></div>
                     </div>
                   </div>
@@ -127,7 +127,7 @@
                   <div class="team-image"><img src="assets/images/team-4.jpg" alt="Member Photo"/>
                     <div class="team-detail">
                       <h5 class="font-alt">ALICE CLARK</h5>
-                      <p class="font-serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit lacus, a&amp;nbsp;iaculis diam.</p>
+                      <p class="font-serif">alices description here</p>
                       <div class="team-social"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-dribbble"></i></a><a href="#"><i class="fa fa-skype"></i></a></div>
                     </div>
                   </div>
